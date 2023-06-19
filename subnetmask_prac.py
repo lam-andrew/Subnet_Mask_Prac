@@ -1,3 +1,4 @@
+# Creator: Andrew Lam
 # Program that will randomly generate CIDR notation subnet masks and prompt the user to enter the correct subnet mask in binary 
 # Will randomly generate /8 - /32 
 
